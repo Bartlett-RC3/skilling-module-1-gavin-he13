@@ -54,15 +54,6 @@ namespace RC3_Humans
             //take clothes
         }
 
-
-
-
-
-
-
-
-
-
     }
 
 

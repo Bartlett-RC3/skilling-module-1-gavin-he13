@@ -16,8 +16,16 @@ namespace RC3_Humans
             height = _height;
 
         }
-     
+        //behaviours
+        public void Roll()
+        {
+            //action here
+        }
 
+        public void Scan()
+        {
+            //action here
+        }
     }
 }
 
